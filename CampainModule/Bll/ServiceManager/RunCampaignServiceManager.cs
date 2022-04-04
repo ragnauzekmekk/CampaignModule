@@ -83,7 +83,7 @@ namespace CampainModule.Bll.ServiceManager
                                 var campaignProportion = _time * (campaign.TargetSalesCount / campaign.PriceManipulationLimit);
 
                                 var priceCampaign = product.Price - campaignProportion;
-
+                                 
                                 if (campaign.TargetSalesCount <= product.Stock && priceCampaign >= priceControl)
                                 {
                                     product.PriceCampaign = product.Price - campaignProportion;
