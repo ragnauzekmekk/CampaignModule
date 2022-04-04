@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CampainModule", "CampainModule\CampainModule.csproj", "{8AD1B1B1-99E7-4A7C-8F37-8E8FEE9EAA94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampainModule.Model", "CampainModule.Model\CampainModule.Model.csproj", "{1545BA0E-A685-4D5A-B1F3-8D50E89A14F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8AD1B1B1-99E7-4A7C-8F37-8E8FEE9EAA94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AD1B1B1-99E7-4A7C-8F37-8E8FEE9EAA94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AD1B1B1-99E7-4A7C-8F37-8E8FEE9EAA94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AD1B1B1-99E7-4A7C-8F37-8E8FEE9EAA94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1545BA0E-A685-4D5A-B1F3-8D50E89A14F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1545BA0E-A685-4D5A-B1F3-8D50E89A14F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1545BA0E-A685-4D5A-B1F3-8D50E89A14F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1545BA0E-A685-4D5A-B1F3-8D50E89A14F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEF7D17B-6092-42BE-8C43-9F1D4C5BB5EE}
+	EndGlobalSection
+EndGlobal

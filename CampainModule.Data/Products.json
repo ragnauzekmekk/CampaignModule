@@ -1,0 +1,24 @@
+{
+  "Products": [
+    {
+      "ProductCode": "P1",
+      "Price": 1.25,
+      "Stock": 10
+    },
+    {
+      "ProductCode": "P2",
+      "Price": 1,
+      "Stock": 5
+    },
+    {
+      "ProductCode": "P3",
+      "Price": 4.25,
+      "Stock": 18
+    },
+    {
+      "ProductCode": "P4",
+      "Price": 6.55,
+      "Stock": 150
+    }
+  ]
+}
